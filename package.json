@@ -1,0 +1,21 @@
+{
+  "name": "playwright",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oksanapazderska/playwright.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oksanapazderska/playwright/issues"
+  },
+  "homepage": "https://github.com/oksanapazderska/playwright#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.38.1",
+    "@types/node": "^20.8.0"
+  }
+}
